@@ -54,6 +54,7 @@ body {
     text-align: center;
     margin: 0 auto; /* Only bottom margin needed */
     margin-top:20px;
+    margin-bottom: 42px;
     height: 100px; /* Make it narrow */
     top: 0; /* Position it at the top */
     left: 0; /* Position it at the left */
@@ -74,3 +75,4 @@ body {
     z-index: 1;
     /* Rest of the styles */
   }
+
